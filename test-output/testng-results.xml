@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="134606" started-at="2021-06-05T09:42:51Z" finished-at="2021-06-05T09:45:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="134606" started-at="2021-06-05T09:42:51Z" finished-at="2021-06-05T09:45:06Z">
+      <class name="IBM.AppiumFramework.KhanAcademy">
+        <test-method status="PASS" signature="validateKhanAcademy()[pri:0, instance:IBM.AppiumFramework.KhanAcademy@66480dd7]" name="validateKhanAcademy" duration-ms="134602" started-at="2021-06-05T15:12:51Z" finished-at="2021-06-05T15:15:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateKhanAcademy -->
+      </class> <!-- IBM.AppiumFramework.KhanAcademy -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
